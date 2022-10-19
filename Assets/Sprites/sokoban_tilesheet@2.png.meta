@@ -3,7 +3,7 @@ guid: 3aa8e9acc1310024fb99d48f78d3cda6
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -63,6 +63,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -102,6 +103,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -2305,12 +2318,12 @@ TextureImporter:
       sokoban_tilesheet@2_5: -50610377
       sokoban_tilesheet@2_10: -1857172880
       sokoban_tilesheet@2_76: -600266077
-      sokoban_tilesheet@2_33: 1995039529
       sokoban_tilesheet@2_52: 13726135
-      sokoban_tilesheet@2_97: -1515372258
-      sokoban_tilesheet@2_67: -1141453668
-      sokoban_tilesheet@2_11: -409302744
       sokoban_tilesheet@2_66: -1178258293
+      sokoban_tilesheet@2_97: -1515372258
+      sokoban_tilesheet@2_33: 1995039529
+      sokoban_tilesheet@2_11: -409302744
+      sokoban_tilesheet@2_67: -1141453668
       sokoban_tilesheet@2_17: -1263507043
       sokoban_tilesheet@2_25: -1572332070
       sokoban_tilesheet@2_12: 528691322
@@ -2350,13 +2363,13 @@ TextureImporter:
       sokoban_tilesheet@2_31: -875068322
       sokoban_tilesheet@2_7: 334216746
       sokoban_tilesheet@2_57: 1431175311
-      sokoban_tilesheet@2_85: 893551501
       sokoban_tilesheet@2_101: -1595805991
       sokoban_tilesheet@2_9: 1250433236
-      sokoban_tilesheet@2_19: -1465238375
+      sokoban_tilesheet@2_85: 893551501
       sokoban_tilesheet@2_8: 379631603
-      sokoban_tilesheet@2_84: -1441923138
+      sokoban_tilesheet@2_19: -1465238375
       sokoban_tilesheet@2_20: -1617213687
+      sokoban_tilesheet@2_84: -1441923138
       sokoban_tilesheet@2_4: 330653247
       sokoban_tilesheet@2_34: -679279487
       sokoban_tilesheet@2_88: 1009868677
