@@ -29,5 +29,7 @@ MonoBehaviour:
     instantiationMode: 1
   - dependency: {fileID: 8143176042424398188, guid: 24c58e3af44c20740a7bfaad342050a8, type: 3}
     instantiationMode: 1
+  - dependency: {fileID: 2800000, guid: 7399e7a16894cc0419818c43e788598a, type: 3}
+    instantiationMode: 0
   templatePipeline: {fileID: 0}
   addToDefaults: 0
