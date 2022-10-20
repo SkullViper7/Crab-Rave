@@ -75,7 +75,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 5
-  m_Sprite: {fileID: 642397678, guid: 7399e7a16894cc0419818c43e788598a, type: 3}
+  m_Sprite: {fileID: 485803608, guid: 7399e7a16894cc0419818c43e788598a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -128,7 +128,7 @@ MonoBehaviour:
   endEvent:
     m_PersistentCalls:
       m_Calls: []
-  lockSprite: {fileID: -1276592945, guid: 8e600ff3d1772d44b838405440d2bd17, type: 3}
-  unlockSprite: {fileID: 642397678, guid: 7399e7a16894cc0419818c43e788598a, type: 3}
+  lockSprite: {fileID: 1758207281, guid: 8e600ff3d1772d44b838405440d2bd17, type: 3}
+  unlockSprite: {fileID: 485803608, guid: 7399e7a16894cc0419818c43e788598a, type: 3}
   delayNextLevel: 0.2
   isUnlock: 0
