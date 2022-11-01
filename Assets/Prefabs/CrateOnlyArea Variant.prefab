@@ -11,10 +11,18 @@ PrefabInstance:
       propertyPath: cratesTag.Array.size
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1782465973089184134, guid: 32d9954089a16d0409e9288d2007358c, type: 3}
+      propertyPath: validateEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 6262025651787113348}
     - target: {fileID: 1782465973089184135, guid: 32d9954089a16d0409e9288d2007358c, type: 3}
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 1440601573, guid: e50fafcd1d8c5a1489f0c7bb98a715c1, type: 3}
+    - target: {fileID: 1782465973089184135, guid: 32d9954089a16d0409e9288d2007358c, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1782465973089184136, guid: 32d9954089a16d0409e9288d2007358c, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -65,3 +73,8 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 32d9954089a16d0409e9288d2007358c, type: 3}
+--- !u!212 &6262025651787113348 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 1782465973089184135, guid: 32d9954089a16d0409e9288d2007358c, type: 3}
+  m_PrefabInstance: {fileID: 5646309404230027779}
+  m_PrefabAsset: {fileID: 0}
