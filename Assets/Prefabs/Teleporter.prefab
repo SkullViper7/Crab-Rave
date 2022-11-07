@@ -75,7 +75,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 1363805922, guid: 3aa8e9acc1310024fb99d48f78d3cda6, type: 3}
+  m_Sprite: {fileID: -1054088618, guid: 9496ca3aac51fa342b8fbfac82dc7b89, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -131,8 +131,8 @@ MonoBehaviour:
   cratesTag:
   - Crate
   - SoapCrate
-  unlockSprite: {fileID: 1363805922, guid: 3aa8e9acc1310024fb99d48f78d3cda6, type: 3}
-  lockSprite: {fileID: 569926324, guid: 3aa8e9acc1310024fb99d48f78d3cda6, type: 3}
+  unlockSprite: {fileID: -1054088618, guid: 9496ca3aac51fa342b8fbfac82dc7b89, type: 3}
+  lockSprite: {fileID: -1271774386, guid: 06544758ff1338f468bc7fae7c5d451d, type: 3}
   teleportEvent:
     m_PersistentCalls:
       m_Calls: []
