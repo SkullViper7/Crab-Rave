@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 12
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -3121,7 +3121,7 @@ TextureImporter:
       Items2_32: -1809001157
       Items2_105: 1625547882
       Items2_61: 52649157
-      Items2_28: -392084844
+      Items2_62: 1224396642
       Items2_128: 1325663780
       Items2_112: -955751850
       Items2_16: 1595552469
@@ -3248,18 +3248,18 @@ TextureImporter:
       Items2_131: 246183436
       Items2_12: -904180543
       Items2_81: 790750090
-      Items2_118: -1733353348
-      Items2_133: 1831577651
-      Items2_93: 1790633750
-      Items2_123: -841034488
-      Items2_74: -843026846
-      Items2_138: 206734969
-      Items2_104: 1420660442
-      Items2_111: 1670362232
-      Items2_62: 1224396642
-      Items2_36: 1867837673
       Items2_121: -2127181519
+      Items2_118: -1733353348
+      Items2_93: 1790633750
+      Items2_104: 1420660442
+      Items2_133: 1831577651
+      Items2_123: -841034488
       Items2_54: 479491686
+      Items2_74: -843026846
+      Items2_28: -392084844
+      Items2_36: 1867837673
+      Items2_111: 1670362232
+      Items2_138: 206734969
       Items2_56: 1518453351
   spritePackingTag: 
   pSDRemoveMatte: 0
